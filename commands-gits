@@ -1,6 +1,9 @@
-pour cloner un repository il faut entrer la commande suivante: git clone url du lien a cloner
+﻿pour cloner un repository il faut entrer la commande suivante: git clone url du lien a cloner
 Les 3 commandes du push sont les suivantes 
 - git add
 -git commit -m
 ainsi que git push 
+
+pour pull il faut ajoutert la commande git pull 
+elle va permettre de mettre à jour le fichier 
 
